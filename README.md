@@ -1,7 +1,9 @@
-# Author: Nathan Liu
-# Instructor: Assitant Professfor of Carnegie Mellon University
+### Author: 
+_Nathan Liu_
+### Instructor: 
+_Assitant Professfor of Carnegie Mellon University_
 
-# Abstact
+### Abstract
 The growing use of artificial intelligence has sparked major security concerns about code produced by large language models (LLMs). 
 
 This paper examines weaknesses in LLM-generated code, focusing on the Llama 3 model. While these systems can speed up software development, our initial tests uncovered serious vulnerabilities (such as SQL injection, cross-site scripting , and buffer overflows) appearing across multiple programming languages. 
